@@ -66,3 +66,8 @@ This project implements a program to find the maximum value in an array using bo
     ```bash
     gnuplot plot.gnuplot
 
+---
+
+## Conclusion
+
+In conclusion, this project, implemented in C, highlights the fundamental concepts of time measurement and performance analysis in computing. Through sequential and parallel maximum-finding algorithms, it explores performance trade-offs and demonstrates how execution times can vary due to factors like workload distribution and environmental noise. The results, visualized using GNUplot, emphasize the importance of precise measurement and tuning for reliable performance evaluation, providing a solid foundation for further optimization and experimental analysis in system programming.
