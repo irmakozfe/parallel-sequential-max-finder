@@ -1,0 +1,3 @@
+C:/Users/Irmak/CLionProjects/time/cmake-build-debug/CMakeFiles/time.dir
+C:/Users/Irmak/CLionProjects/time/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Irmak/CLionProjects/time/cmake-build-debug/CMakeFiles/rebuild_cache.dir
